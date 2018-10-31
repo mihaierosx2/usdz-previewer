@@ -1,9 +1,10 @@
-## We have added a demo USDZ file below
+# We have added a demo USDZ file below
 
 It can be accessed by using the hyperlink below.
+
 [DEMO](https://mihaierosx2.github.io/usdz-previewer/apartment.html)
 
-### Steps
+# Required steps
 
 ## Step 1
 
@@ -20,6 +21,10 @@ Upload your new **test.usdz** file.
 ## Step 4 
 
 Test it using the following link **[TEST ME HERE]**(https://mihaierosx2.github.io/usdz-previewer/test.html).
+
+## Step 5
+
+You should be able to see the **USDZ** you created in scene using Safari on a device with iOS 12.
 
 ### Support or Contact
 

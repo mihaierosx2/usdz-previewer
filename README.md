@@ -26,6 +26,7 @@ Syntax highlighted code block
 [Link](https://mihaierosx2.github.io/usdz-previewer/html/retrotv.html) and ![Image](src)
 ```
 
+[Link](https://mihaierosx2.github.io/usdz-previewer/html/retrotv.html)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

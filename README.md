@@ -14,9 +14,13 @@ Create your **USDZ** file and name it **test.usdz**.
 
 Delete the old **test.usdz** file.
 
+![](https://media.giphy.com/media/229OqJbHVXIV927p2F/giphy.gif)
+
 ## Step 3
 
 Upload your new **test.usdz** file.
+
+![](https://media.giphy.com/media/2ZXwcvlGVPz8RaxORx/giphy.gif)
 
 ## Step 4 
 

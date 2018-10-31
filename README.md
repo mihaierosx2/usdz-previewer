@@ -20,7 +20,7 @@ Upload your new **test.usdz** file.
 
 ## Step 4 
 
-Test it using the following link **[TEST ME HERE]**(https://mihaierosx2.github.io/usdz-previewer/test.html).
+Test it using the following link [TEST-ME-HERE](https://mihaierosx2.github.io/usdz-previewer/test.html).
 
 ## Step 5
 

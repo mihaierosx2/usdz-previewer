@@ -23,10 +23,13 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://mihaierosx2.github.io/usdz-previewer/html/retrotv.html) and ![Image](src)
+[Link](link) and ![Image](src)
 ```
 
-[Link](https://mihaierosx2.github.io/usdz-previewer/html/retrotv.html)
+[Link](https://mihaierosx2.github.io/usdz-previewer/apartment.html)
+
+[Link](https://mihaierosx2.github.io/usdz-previewer/test.html)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes

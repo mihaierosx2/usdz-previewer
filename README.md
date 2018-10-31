@@ -1,41 +1,26 @@
-## Welcome to GitHub Pages
+## We have added a demo USDZ file below
 
-You can use the [editor on GitHub](https://github.com/mihaierosx2/usdz-previewer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It can be accessed by using the hyperlink below.
+[DEMO](https://mihaierosx2.github.io/usdz-previewer/apartment.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Steps
 
-### Markdown
+## Step 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create your **USDZ** file and name it **test.usdz**.
 
-```markdown
-Syntax highlighted code block
+## Step 2
 
-# Header 1
-## Header 2
-### Header 3
+Delete the old **test.usdz** file.
 
-- Bulleted
-- List
+## Step 3
 
-1. Numbered
-2. List
+Upload your new **test.usdz** file.
 
-**Bold** and _Italic_ and `Code` text
+## Step 4 
 
-[Link](link) and ![Image](src)
-```
-
-[Link](https://mihaierosx2.github.io/usdz-previewer/apartment.html)
-
-[Link](https://mihaierosx2.github.io/usdz-previewer/test.html)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mihaierosx2/usdz-previewer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Test it using the following link **[TEST ME HERE]**(https://mihaierosx2.github.io/usdz-previewer/test.html).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our solution? [Contact support](http://www.x2mobile.net/about) and we’ll help you sort it out.
